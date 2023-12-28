@@ -1,1 +1,1 @@
-DAT Token
+DAT is BEP20 based token
